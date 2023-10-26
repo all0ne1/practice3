@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="210c9774-13f5-4cee-bc68-b498f4cbd74a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FireRace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice1/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice1/MFCWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice1/ThreadsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/Cabinet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practice2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/MFCSimulation" afterDir="false" />
-    </list>
+    <list default="true" id="210c9774-13f5-4cee-bc68-b498f4cbd74a" name="Changes" comment="java pr2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +48,19 @@
       <option name="presentableId" value="Default" />
       <updated>1698338167893</updated>
     </task>
+    <task id="LOCAL-00001" summary="java pr2">
+      <option name="closed" value="true" />
+      <created>1698348245340</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698348245340</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="java pr2" />
+    <option name="LAST_COMMIT_MESSAGE" value="java pr2" />
   </component>
 </project>
