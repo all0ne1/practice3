@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="210c9774-13f5-4cee-bc68-b498f4cbd74a" name="Changes" comment="java pr2" />
+    <list default="true" id="210c9774-13f5-4cee-bc68-b498f4cbd74a" name="Changes" comment="java pr2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice1/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice1/MFC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
